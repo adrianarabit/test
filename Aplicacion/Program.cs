@@ -10,6 +10,7 @@ namespace Aplicacion
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola Mundo");
         }
     }
 }
